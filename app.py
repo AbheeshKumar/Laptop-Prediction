@@ -79,11 +79,21 @@ if st.button("Predict Laptop Price"):
 ## About ME:
 st.header("About Us:")
 st.write("Hi there, We Are ML Masters!👋")
-st.write("`Aspiring Data Scientist`")
 st.write("CS is all the glamour nowadays and everyone wants to enter the field in one way or another. A laptop is a necessity to acheive that success. However, it's hard to figure out the right price for the laptop. We went through that problem and have created a predictor to get accurate prices for laptops of vaious brands and models")
 
 # Social Media Links
 st.header("Let's Connect:")
+st.markdown("Abheesh")
+st.markdown(
+    "[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abheesh-kumar-194b8014a/) "
+    "[![Github](https://img.shields.io/badge/Github-%23FF0000.svg?logo=Github&logoColor=Black)](https://github.com/AbheeshKumar)"
+)
+st.markdown("Sandesh Kukreja")
+st.markdown(
+    "[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandesh-kukreja/) "
+    "[![Github](https://img.shields.io/badge/Github-%23FF0000.svg?logo=Github&logoColor=Black)](https://github.com/AbheeshKumar)"
+)
+st.markdown("Neeraj Kumar")
 st.markdown(
     "[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeraj-kumar-63401325a/) "
     "[![Github](https://img.shields.io/badge/Github-%23FF0000.svg?logo=Github&logoColor=Black)](https://github.com/Neerajk43/)"
